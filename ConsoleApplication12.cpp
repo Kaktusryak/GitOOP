@@ -4,39 +4,39 @@
 #include <iostream>
 using namespace std;
 
-int sum(int *, int);
-void compare(int, int);
+int sum(int *, int);//функция суммы
+void compare(int, int);//функция сравнения
 
 
 int main()
 {
 	cout << " Denis Shulman IS-92(cpp)" << endl;
 
-	int a;
+	int a;//первое число
 
-	int b;
+	int b;//второе число
 	int c;
 	cout << "Enter first digit:" << endl;
-	cin >> a;
+	cin >> a;//ввод первого числа
 	cout << "Enter second digit:" << endl;
-	cin >> b;
-	c = sum(&a, b);
+	cin >> b;//ввод второго числа
+	c = sum(&a, b);//сумма
 	cout << "Sum is :" << c;
-	compare(a, b);
+	compare(a, b);//сравнение
 
 
 }
-int sum(int * a, int b) {
+int sum(int * a, int b) {//функция суммы
 
 
 	unsigned x, y, sum = 0, mask = 1;
-	for (unsigned i = 0; i < 32; i++) {
-		x = *a & mask;
+	for (unsigned i = 0; i < 32; i++) {//32 -битовой формы длина 
+		x = *a & mask;//через маску мы сравниваем биты а и х
 		y = b & mask;
-		if (x == 1 << i && y == 1 << i) {
+		if (x == 1 << i && y == 1 << i) {//сравнение битов х и у через и
 			sum |= 1 << (i + 1);
 		}
-		else if (x == 1 << i || y == 1 << i) {
+		else if (x == 1 << i || y == 1 << i) {//сравнение битов х и у через или
 			sum |= 1 << i;
 		}
 
@@ -45,50 +45,11 @@ int sum(int * a, int b) {
 	return sum;
 
 }
-void compare(int a, int b) {
+void compare(int a, int b) {//функция сравнения
 	cout << endl;
-	int com = b & ((a - b) >> 31) | a & (~(a - b) >> 31);
+	int com = b & ((a - b) >> 31) | a & (~(a - b) >> 31);// нахождение наибольшего числа методом сдвига
 	cout << com << " is bigger" << endl;
-	/*int x = a;
-	int y = b;
-	int mask = 0;
-	for (int i = 0; i < 32; i++) {
-		a = a << 1;
-		b = b << 1;
-		if (a == mask && b != mask) {
-			cout << endl << x << " < " << y << endl;
-			break;
-		}
-		else {
-			if (a != mask && b == mask) {
-				cout << endl << x << " > " << y << endl;
-				break;
-			}
-
-		}
-		if (i == 31) {
-			cout << endl << x << " = " << y << endl;
-		}
-	}
-
-	*/
-	/*int e1 = ~a;
-	int e2 = ~b;
-	if (e1 > e2) {
-		cout << endl;
-		cout << a << " < " << b;
-	}
-	else {
-		if (e1 < e2) {
-			cout << endl;
-			cout << a << " > " << b;
-		}
-		else {
-			cout << endl;
-			cout << a << " = " << b;
-		}
-	}
-	*/
+	
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
