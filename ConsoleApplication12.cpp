@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-int sum(int, int);
+int sum(int *, int);
 void compare(int, int);
 
 
@@ -20,18 +20,18 @@ int main()
 	cin >> a;
 	cout << "Enter second digit:" << endl;
 	cin >> b;
-	c = sum(a, b);
+	c = sum(&a, b);
 	cout << "Sum is :" << c;
 	compare(a, b);
 
 
 }
-int sum(int a, int b) {
+int sum(int * a, int b) {
 
 
 	unsigned x, y, sum = 0, mask = 1;
 	for (unsigned i = 0; i < 32; i++) {
-		x = a & mask;
+		x = *a & mask;
 		y = b & mask;
 		if (x == 1 << i && y == 1 << i) {
 			sum |= 1 << (i + 1);

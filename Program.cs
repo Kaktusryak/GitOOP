@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     class Program
     {
-        static int method_sum(int a, int b)
+        static int method_sum(ref int a, int b)
         {
             int x, y, sum = 0, mask = 1;
             for (int i = 0; i < 32; i++)
@@ -70,7 +70,7 @@ namespace ConsoleApp1
             Console.Write("Enter second digit:");
             int b = int.Parse(Console.ReadLine());
 
-            int c = method_sum(a, b);
+            int c = method_sum(ref a, b);
             Console.Write("Sum is : ");
             Console.WriteLine(c);
             method_compare(a, b);
