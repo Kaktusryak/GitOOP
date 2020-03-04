@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OOP2_DLL_/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/OOP2_DLL_.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OOP2_DLL_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP2_DLL_/1.0.0": {
+      "type": "project",
+      "path": "../OOP2_DLL_/OOP2_DLL_.csproj",
+      "msbuildProject": "../OOP2_DLL_/OOP2_DLL_.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "OOP2_DLL_ >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\38098\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\38098\\source\\repos\\OOP2cs\\OOP2cs\\OOP2cs.csproj",
+      "projectName": "OOP2cs",
+      "projectPath": "C:\\Users\\38098\\source\\repos\\OOP2cs\\OOP2cs\\OOP2cs.csproj",
+      "packagesPath": "C:\\Users\\38098\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\38098\\source\\repos\\OOP2cs\\OOP2cs\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\38098\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\38098\\source\\repos\\OOP2cs\\OOP2_DLL_\\OOP2_DLL_.csproj": {
+              "projectPath": "C:\\Users\\38098\\source\\repos\\OOP2cs\\OOP2_DLL_\\OOP2_DLL_.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

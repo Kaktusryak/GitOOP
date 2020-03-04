@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  StaticLib1.cpp
+C:\Users\38098\source\repos\OOP2\StaticLib1\StaticLib1.cpp(57,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\38098\source\repos\OOP2\StaticLib1\StaticLib1.cpp(67,21): warning C4018: <: несоответствие типов со знаком и без знака
+  StaticLib1.vcxproj -> C:\Users\38098\source\repos\OOP2\Debug\StaticLib1.lib

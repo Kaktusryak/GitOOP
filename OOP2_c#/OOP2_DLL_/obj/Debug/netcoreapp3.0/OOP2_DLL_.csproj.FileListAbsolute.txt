@@ -1,0 +1,8 @@
+C:\Users\38098\source\repos\OOP2cs\OOP2_DLL_\bin\Debug\netcoreapp3.0\OOP2_DLL_.deps.json
+C:\Users\38098\source\repos\OOP2cs\OOP2_DLL_\bin\Debug\netcoreapp3.0\OOP2_DLL_.dll
+C:\Users\38098\source\repos\OOP2cs\OOP2_DLL_\bin\Debug\netcoreapp3.0\OOP2_DLL_.pdb
+C:\Users\38098\source\repos\OOP2cs\OOP2_DLL_\obj\Debug\netcoreapp3.0\OOP2_DLL_.csprojAssemblyReference.cache
+C:\Users\38098\source\repos\OOP2cs\OOP2_DLL_\obj\Debug\netcoreapp3.0\OOP2_DLL_.AssemblyInfoInputs.cache
+C:\Users\38098\source\repos\OOP2cs\OOP2_DLL_\obj\Debug\netcoreapp3.0\OOP2_DLL_.AssemblyInfo.cs
+C:\Users\38098\source\repos\OOP2cs\OOP2_DLL_\obj\Debug\netcoreapp3.0\OOP2_DLL_.dll
+C:\Users\38098\source\repos\OOP2cs\OOP2_DLL_\obj\Debug\netcoreapp3.0\OOP2_DLL_.pdb

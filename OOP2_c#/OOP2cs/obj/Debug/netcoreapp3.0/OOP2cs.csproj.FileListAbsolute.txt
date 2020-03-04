@@ -1,0 +1,14 @@
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\bin\Debug\netcoreapp3.0\OOP2cs.exe
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\bin\Debug\netcoreapp3.0\OOP2cs.deps.json
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\bin\Debug\netcoreapp3.0\OOP2cs.runtimeconfig.json
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\bin\Debug\netcoreapp3.0\OOP2cs.runtimeconfig.dev.json
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\bin\Debug\netcoreapp3.0\OOP2cs.dll
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\bin\Debug\netcoreapp3.0\OOP2cs.pdb
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\obj\Debug\netcoreapp3.0\OOP2cs.csprojAssemblyReference.cache
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\obj\Debug\netcoreapp3.0\OOP2cs.AssemblyInfoInputs.cache
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\obj\Debug\netcoreapp3.0\OOP2cs.AssemblyInfo.cs
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\obj\Debug\netcoreapp3.0\OOP2cs.dll
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\obj\Debug\netcoreapp3.0\OOP2cs.pdb
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\bin\Debug\netcoreapp3.0\OOP2_DLL_.dll
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\bin\Debug\netcoreapp3.0\OOP2_DLL_.pdb
+C:\Users\38098\source\repos\OOP2cs\OOP2cs\obj\Debug\netcoreapp3.0\OOP2cs.csproj.CopyComplete
