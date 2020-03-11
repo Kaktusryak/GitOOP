@@ -1,0 +1,11 @@
+C:\Users\38098\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\OOP3cs.exe
+C:\Users\38098\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\OOP3cs.deps.json
+C:\Users\38098\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\OOP3cs.runtimeconfig.json
+C:\Users\38098\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\OOP3cs.runtimeconfig.dev.json
+C:\Users\38098\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\OOP3cs.dll
+C:\Users\38098\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\OOP3cs.pdb
+C:\Users\38098\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\OOP3cs.csprojAssemblyReference.cache
+C:\Users\38098\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\OOP3cs.AssemblyInfoInputs.cache
+C:\Users\38098\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\OOP3cs.AssemblyInfo.cs
+C:\Users\38098\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\OOP3cs.dll
+C:\Users\38098\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\OOP3cs.pdb
