@@ -1,0 +1,4 @@
+﻿  OOP5_2.cpp
+A:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math_defines.h(22,1): warning C4005: M_PI: изменение макроопределения
+C:\Users\denis\source\repos\OOP5\OOP5_2\OOP5_2.cpp(4): message : см. предыдущее определение "M_PI"
+  OOP5_2.vcxproj -> C:\Users\denis\source\repos\OOP5\Debug\OOP5_2.exe

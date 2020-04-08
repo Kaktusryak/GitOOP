@@ -1,0 +1,6 @@
+C:\Users\denis\source\repos\OOP5cs\OOP5_2cs\bin\Debug\OOP5_2cs.exe.config
+C:\Users\denis\source\repos\OOP5cs\OOP5_2cs\bin\Debug\OOP5_2cs.exe
+C:\Users\denis\source\repos\OOP5cs\OOP5_2cs\bin\Debug\OOP5_2cs.pdb
+C:\Users\denis\source\repos\OOP5cs\OOP5_2cs\obj\Debug\OOP5_2cs.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\OOP5cs\OOP5_2cs\obj\Debug\OOP5_2cs.exe
+C:\Users\denis\source\repos\OOP5cs\OOP5_2cs\obj\Debug\OOP5_2cs.pdb
