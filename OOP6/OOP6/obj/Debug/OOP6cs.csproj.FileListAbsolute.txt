@@ -1,0 +1,6 @@
+C:\Users\denis\source\repos\OOP6\OOP6\bin\Debug\OOP6.exe.config
+C:\Users\denis\source\repos\OOP6\OOP6\bin\Debug\OOP6.exe
+C:\Users\denis\source\repos\OOP6\OOP6\bin\Debug\OOP6.pdb
+C:\Users\denis\source\repos\OOP6\OOP6\obj\Debug\OOP6cs.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\OOP6\OOP6\obj\Debug\OOP6.exe
+C:\Users\denis\source\repos\OOP6\OOP6\obj\Debug\OOP6.pdb

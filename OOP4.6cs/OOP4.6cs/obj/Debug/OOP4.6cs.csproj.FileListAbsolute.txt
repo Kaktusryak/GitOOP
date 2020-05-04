@@ -1,0 +1,6 @@
+C:\Users\denis\source\repos\OOP4.6cs\OOP4.6cs\bin\Debug\OOP4.6cs.exe.config
+C:\Users\denis\source\repos\OOP4.6cs\OOP4.6cs\bin\Debug\OOP4.6cs.exe
+C:\Users\denis\source\repos\OOP4.6cs\OOP4.6cs\bin\Debug\OOP4.6cs.pdb
+C:\Users\denis\source\repos\OOP4.6cs\OOP4.6cs\obj\Debug\OOP4.6cs.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\OOP4.6cs\OOP4.6cs\obj\Debug\OOP4.6cs.exe
+C:\Users\denis\source\repos\OOP4.6cs\OOP4.6cs\obj\Debug\OOP4.6cs.pdb
