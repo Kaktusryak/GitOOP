@@ -1,0 +1,6 @@
+C:\Users\denis\source\repos\OOP8cs\OOP8cs\bin\Debug\OOP8cs.exe.config
+C:\Users\denis\source\repos\OOP8cs\OOP8cs\bin\Debug\OOP8cs.exe
+C:\Users\denis\source\repos\OOP8cs\OOP8cs\bin\Debug\OOP8cs.pdb
+C:\Users\denis\source\repos\OOP8cs\OOP8cs\obj\Debug\OOP8cs.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\OOP8cs\OOP8cs\obj\Debug\OOP8cs.exe
+C:\Users\denis\source\repos\OOP8cs\OOP8cs\obj\Debug\OOP8cs.pdb

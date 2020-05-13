@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP8cs", "OOP8cs\OOP8cs.csproj", "{BE399A6D-DF10-4292-ADF7-189C0721E3B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP8.2cs", "OOP8.2\OOP8.2cs.csproj", "{B03489CA-7B80-4749-9D77-438C38A5CCED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE399A6D-DF10-4292-ADF7-189C0721E3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE399A6D-DF10-4292-ADF7-189C0721E3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE399A6D-DF10-4292-ADF7-189C0721E3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE399A6D-DF10-4292-ADF7-189C0721E3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B03489CA-7B80-4749-9D77-438C38A5CCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03489CA-7B80-4749-9D77-438C38A5CCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03489CA-7B80-4749-9D77-438C38A5CCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03489CA-7B80-4749-9D77-438C38A5CCED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A95087-F403-4B8A-B8EB-AC9B22D890C5}
+	EndGlobalSection
+EndGlobal
