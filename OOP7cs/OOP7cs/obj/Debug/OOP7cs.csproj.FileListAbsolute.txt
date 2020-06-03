@@ -1,0 +1,6 @@
+C:\Users\denis\source\repos\OOP7cs\OOP7cs\bin\Debug\OOP7cs.exe.config
+C:\Users\denis\source\repos\OOP7cs\OOP7cs\bin\Debug\OOP7cs.exe
+C:\Users\denis\source\repos\OOP7cs\OOP7cs\bin\Debug\OOP7cs.pdb
+C:\Users\denis\source\repos\OOP7cs\OOP7cs\obj\Debug\OOP7cs.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\OOP7cs\OOP7cs\obj\Debug\OOP7cs.exe
+C:\Users\denis\source\repos\OOP7cs\OOP7cs\obj\Debug\OOP7cs.pdb
