@@ -1,0 +1,5 @@
+C:\Users\denis\source\repos\CW\ClassLombard\bin\Debug\ClassLombard.dll
+C:\Users\denis\source\repos\CW\ClassLombard\bin\Debug\ClassLombard.pdb
+C:\Users\denis\source\repos\CW\ClassLombard\obj\Debug\ClassLombard.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\CW\ClassLombard\obj\Debug\ClassLombard.dll
+C:\Users\denis\source\repos\CW\ClassLombard\obj\Debug\ClassLombard.pdb
